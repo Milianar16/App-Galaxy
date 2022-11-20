@@ -1,0 +1,13 @@
+h1,
+p {
+    color: #e1eeeb
+}
+
+table {
+    width: 100%;
+}
+
+.table-container {
+    max-height: 60vh;
+    overflow: auto;
+}
